@@ -57,3 +57,4 @@ test-gitlab-include/project_include.yml/master --> infrastructure/terraform/ci/c
 test-gitlab-include/.gitlab-ci.yml/master --> iac/ci/envs.yml/master;
 test-gitlab-include/.gitlab-ci.yml/master --> infrastructure/terraform/ci/create-release.yml/master;
 ```
+![graph.png](graph.png)
